@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a computer science student and Frontend Developer<br>I'm currently learning React<br>I'm open to collaborations and work on Web based projects
+I'm a computer science student and Frontend Developer<br>I'm open to collaborations and work on Web based projects
 
 
 ## 🌐 Socials:
